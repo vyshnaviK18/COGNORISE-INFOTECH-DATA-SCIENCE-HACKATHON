@@ -1,9 +1,7 @@
 # COGNORISE-INFOTECH-DATA-SCIENCE-HACKATHON
 
 structure/
-
-├── README.md
-
+├── README.md/
 ├── src/
 │   ├── N1ExploratoryDataAnalysis.ipynb
 │   ├── N2credit_predict.ipynb
